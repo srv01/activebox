@@ -1,0 +1,26 @@
+@media (max-width: 1199.98px){
+    
+}
+
+@media (max-width: 991.98px){
+    
+}
+
+@media (max-width: 767.98px){
+    .header-text{
+        padding: 0 15px;
+    }
+    
+    .header-text__title{
+        font-size: 35px;
+    }
+    .header-text__subtitle{
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 575.98px){
+    .header-text{
+        justify-content: flex-start;
+    }
+}
